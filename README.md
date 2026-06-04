@@ -324,7 +324,7 @@ Secure tokenized emergency card sharing with revocable access.
 
 ## Anshika Jain
 
-B.Tech Computer Science Engineering  
+Int. MTech Computer Science Engineering  
 VIT Bhopal University
 
 ### Connect
