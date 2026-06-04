@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: var(--font-dm-sans, 'DM Sans'), system-ui, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply antialiased;
+    color: #1c1917;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  :focus-visible {
+    outline: 2.5px solid #3d7a6e;
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+
+  .patient-touch-target {
+    min-height: 64px;
+    min-width: 64px;
+  }
+}
+
+@layer components {
+  /* Display (heading) font — Fraunces */
+  .font-display {
+    font-family: var(--font-fraunces, Georgia, serif);
+  }
+
+  /* Warm layered shadows */
+  .shadow-care-sm {
+    box-shadow:
+      0 1px 2px rgba(28, 25, 23, 0.04),
+      0 2px 6px rgba(28, 25, 23, 0.04);
+  }
+  .shadow-care {
+    box-shadow:
+      0 2px 8px rgba(28, 25, 23, 0.05),
+      0 6px 20px rgba(28, 25, 23, 0.06);
+  }
+  .shadow-care-lg {
+    box-shadow:
+      0 4px 16px rgba(28, 25, 23, 0.07),
+      0 16px 40px rgba(28, 25, 23, 0.08);
+  }
+  .shadow-care-xl {
+    box-shadow:
+      0 8px 24px rgba(28, 25, 23, 0.08),
+      0 24px 60px rgba(28, 25, 23, 0.10);
+  }
+
+  /* Legacy caregiver utilities — kept for non-M2 pages */
+  .bg-caregiver-surface { background-color: #fdfaf6; }
+  .border-caregiver-border { border-color: #e8dfd4; }
+
+  /* Patient calm card */
+  .patient-card {
+    border-radius: 28px;
+    background-color: #fbf7f0;
+  }
+}

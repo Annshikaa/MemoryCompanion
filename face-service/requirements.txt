@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Memory Companion — Face Service dependencies
+#
+# Windows install order (no cmake / Visual Studio required):
+#   pip install dlib-bin==19.24.6
+#   pip install face_recognition==1.3.0 --no-deps
+#   pip install -r requirements.txt
+#
+# Why: face_recognition declares dlib (source build) as a pip dependency.
+# Installing it with --no-deps after dlib-bin is already present avoids the
+# source compilation entirely. All other deps come from this file normally.
+# ---------------------------------------------------------------------------
+
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+
+# face_recognition + dlib — installed separately, see note above
+face_recognition_models    # model files that face_recognition needs at runtime
+click                      # CLI dep of face_recognition
+
+numpy==1.26.4
+Pillow==10.3.0
+python-multipart==0.0.9
+
+# Supabase (service role, server-side only)
+supabase==2.5.0
+
+pydantic==2.7.1
+python-dotenv==1.0.1

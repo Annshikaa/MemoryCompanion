@@ -1,0 +1,29 @@
+# Render deploy configuration for the face service.
+# Place this file at the REPO ROOT, or deploy the face-service folder
+# as its own Render service with "Root Directory: face-service".
+#
+# Deploy steps (Render dashboard):
+#   1. New Web Service → connect GitHub repo
+#   2. Root Directory: face-service
+#   3. Runtime: Docker  (Render auto-detects the Dockerfile)
+#   4. Set the env vars below in the Render dashboard (Environment tab)
+#   5. Health Check Path: /health
+
+services:
+  - type: web
+    name: memory-companion-face
+    runtime: docker
+    dockerfilePath: ./Dockerfile   # relative to root directory
+    plan: starter                  # upgrade to standard for faster CPU
+    healthCheckPath: /health
+    envVars:
+      - key: SUPABASE_URL
+        sync: false                # set manually in Render dashboard
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: SERVICE_SECRET
+        sync: false
+      - key: ALLOWED_ORIGIN
+        sync: false
+      - key: PORT
+        value: "8000"
