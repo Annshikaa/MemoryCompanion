@@ -85,7 +85,10 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 | Patient Home | Feel Good & Activities | Live Face Recognition |
 |:---:|:---:|:---:|
-| ![Patient Home](PASTE_URL_HERE) | ![Activities](PASTE_URL_HERE) | ![Who is this](PASTE_URL_HERE) |
+| ![Patient Home](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/85d5ccfd-e514-4300-b5fb-f67cce437e5e" />
+) | ![Activities](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a0aeba0-b568-468b-9dc6-773f1cda994c" />
+) | ![Who is this](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f1c474f-9661-4004-80f0-edd992b87862" />
+) |
 | *Calm home with Today's Plan* | *Mood, gratitude, games & companion* | *"Who is this?" camera recall* |
 
 ### 👩‍⚕️ Caregiver Experience
