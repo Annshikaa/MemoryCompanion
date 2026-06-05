@@ -81,16 +81,23 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 ## 📸 Product Showcase
 
+> *Drop your screenshots / GIFs in the table below for a polished, professional look.*
 
+> **How to add an image:** upload it in a GitHub issue/README editor, copy the link it generates, and paste *only* the URL inside the parentheses — like `![Patient Home](PASTE_URL_HERE)`. Don't wrap it in an `<img>` tag.
 
-| Caregiver Dashboard | Patient Home Screen |
-|:---:|:---:|
-| ![Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/99142bf4-cde1-49e8-aba4-05e48f37dfd4" />
-) | ![Patient Home](docs/screens/patient-home.png) |
-| **AI Companion** | **Family Recognition** |
-| ![Companion](docs/screens/companion.png) | ![Family](docs/screens/family.png) |
-| **Memory Activities** | **Digital Twin Analytics** |
-| ![Activities](docs/screens/activities.png) | ![Twin](docs/screens/twin.png) |
+### 🌸 Patient Experience
+
+| Patient Home | Feel Good & Activities | Live Face Recognition |
+|:---:|:---:|:---:|
+| ![Patient Home](PASTE_URL_HERE) | ![Activities](PASTE_URL_HERE) | ![Who is this](PASTE_URL_HERE) |
+| *Calm home with Today's Plan* | *Mood, gratitude, games & companion* | *"Who is this?" camera recall* |
+
+### 👩‍⚕️ Caregiver Experience
+
+| Digital Twin | Monitoring & Trends | Patient Management |
+|:---:|:---:|:---:|
+| ![Digital Twin](PASTE_URL_HERE) | ![Trends](PASTE_URL_HERE) | ![Management](PASTE_URL_HERE) |
+| *Live state + 7-day trends* | *Adherence, mood, activity* | *Profiles, medical info, contacts* |
 
 ---
 
@@ -128,20 +135,26 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 - **Personalized Memory Content** — auto-built from caregiver notes
 
 ### 📊 Monitoring & Insights
+- **Monitoring** — live overview of the patient's current state
 - **Mood History** — emotional trend visualization
 - **Cognitive Tracking** — performance over time across activities
 - **Weekly Reports** — readable, AI-written care summaries
 - **Notifications Center** — unified, prioritized alerts
-- **Digital Twin Analytics** — predictive wellness modeling
+- **Digital Twin Analytics** — live state + 7-day trends (adherence, mood, game sessions, app activity)
+
+### 🤖 AI Tools (Caregiver)
+- **Memory Builder** — turn notes into structured patient knowledge
+- **Daily Summary** — one-tap AI report of the patient's day
+- **Suggest Prompts** — AI-recommended conversation starters & activities
 
 ### 🛡️ Safety Systems
-- **Face Recognition Enrollment** — register trusted family members
-- **GPS Monitoring** — live location with history
+- **Face Enroll** — register trusted family members for recognition
+- **Location Safety** — live GPS with history
 - **Geofence Alerts** — instant notification if a safe zone is left
 - **SOS Event Tracking** — logged emergencies with context
 
 ### ✨ New Caregiver Tools
-- **🤝 Multi-Caregiver Collaboration** — invite family & professional carers with role-based permissions (admin / contributor / view-only)
+- **🤝 Multi-Caregiver Collaboration** — invite family & professional carers with a secure **Invite code** and role-based permissions (admin / contributor / view-only)
 - **🩺 Care Team Notes** — shared, timestamped observation log across all caregivers
 - **📅 Shift Handover Mode** — auto-generated summary of "what happened on my shift" for the next caregiver
 - **🔔 Smart Escalation** — if a primary caregiver doesn't respond to an SOS within *N* minutes, the alert cascades to backup contacts
@@ -152,30 +165,34 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 ## 🌸 Patient Features
 
+> Designed around the patient's own words: *"You are safe and you are cared for."* Every screen is large-text, low-stress, and one tap away from help. A floating **HELP** button and **Location on** indicator stay visible at all times.
+
 ### 🌅 Everyday Support
-- **Today's Plan** — a simple, large-text view of the day
-- **Family Directory** — faces, names, and relationships on demand
-- **Reminder Center** — gentle, repeated, never-stressful nudges
-- **AI Companion** — always available to talk, reassure, and orient
-- **SOS Assistance** — one large button to call for help
+- **Home** — a warm, personalized greeting (*"Good afternoon, Surmi"*) with the day and date front and center
+- **Today's Plan** — a simple, large-text view of the day's schedule
 
-### 💗 Emotional Wellbeing
-- **Mood Check-ins** — tap-a-face emotional logging
-- **Gratitude Journal** — small daily moments of positivity
-- **Guided Breathing** — calming exercises for moments of anxiety
-- **Positive Affirmations** — personalized, reassuring messages
+### 🤝 Connect
+- **My Family** — see your loved ones, their faces, names, and relationships
+- **Call for Help** — your trusted contacts, one tap away
+- **Who is this?** — point your camera to instantly identify someone in front of you (live face recognition)
 
-### 🧩 Cognitive Activities
-- **Memory Games** — adaptive difficulty matching cognitive level
-- **Guess The Memory** — photo-based recall challenges
-- **Family Recognition** — practice naming loved ones
-- **Reminiscence Sessions** — guided journeys through life memories
+### 💗 Feel Good
+- **Remember When** — photos & stories from your life (reminiscence)
+- **How I Feel** — share your mood with a single tap
+- **Gratitude Jar** — record one good thing today
+- **Take a Breath** — a calm, guided breathing moment
 
-### ✨ New Patient Experiences
-- **⏰ Orientation Anchor** — a calm always-visible card showing *who you are, where you are, the day, date, and weather* (proven to reduce disorientation distress)
-- **🎵 Music Memory Therapy** — familiar songs from the patient's youth, shown to spark recall and lift mood
+### 🧩 Activities
+- **My Game** — *"Who is this?"* — a personalized family recognition game
+- **Guess the Memory** — *"Do you remember?"* — photo-based recall challenges
+- **Soothing Sounds** — calming music & audio to settle the mind
+- **Talk to Me** — *"Ask me anything"* — the voice-enabled AI companion
+
+### ✨ New Patient Experiences *(roadmap-ready)*
+- **⏰ Orientation Anchor** — always-visible card showing *who you are, where you are, the day, date, and weather* (reduces disorientation distress)
+- **🎵 Music Memory Therapy** — familiar songs from youth that spark recall and lift mood
 - **📖 "My Story" Mode** — an AI-narrated life storybook built from family memories, read aloud in a familiar voice
-- **🌙 Sundowning Support** — evening-aware UI that softens, calms, and offers reassurance during the hardest hours
+- **🌙 Sundowning Support** — evening-aware UI that softens and reassures during the hardest hours
 - **🍽️ Meal & Hydration Prompts** — gentle nudges to eat and drink, with caregiver confirmation
 - **📞 One-Tap Video Call** — call a loved one by tapping their face, no dialing required
 
@@ -327,8 +344,6 @@ flowchart TD
     API --> AU
     FR --> DB
 ```
-
-
 
 ---
 
