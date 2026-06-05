@@ -81,10 +81,6 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 ## 📸 Product Showcase
 
-> *Drop your screenshots / GIFs in the table below for a polished, professional look.*
-
-> **How to add an image:** upload it in a GitHub issue/README editor, copy the link it generates, and paste *only* the URL inside the parentheses — like `![Patient Home](PASTE_URL_HERE)`. Don't wrap it in an `<img>` tag.
-
 ### 🌸 Patient Experience
 
 | Patient Home | Feel Good & Activities | Live Face Recognition |
