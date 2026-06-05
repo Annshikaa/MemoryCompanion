@@ -85,7 +85,8 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 | Caregiver Dashboard | Patient Home Screen |
 |:---:|:---:|
-| ![Dashboard](docs/screens/dashboard.png) | ![Patient Home](docs/screens/patient-home.png) |
+| ![Dashboard](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/99142bf4-cde1-49e8-aba4-05e48f37dfd4" />
+) | ![Patient Home](docs/screens/patient-home.png) |
 | **AI Companion** | **Family Recognition** |
 | ![Companion](docs/screens/companion.png) | ![Family](docs/screens/family.png) |
 | **Memory Activities** | **Digital Twin Analytics** |
