@@ -327,7 +327,7 @@ flowchart TD
     FR --> DB
 ```
 
-> *Replace with an exported architecture image (`docs/architecture.png`) for an even more professional look.*
+
 
 ---
 
