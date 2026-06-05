@@ -79,28 +79,7 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 ---
 
-## 📸 Product Showcase
 
-### 🌸 Patient Experience
-
-| Patient Home | Feel Good & Activities | Live Face Recognition |
-|<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/134d7302-5e62-419e-8503-dea118f56130" />
-|<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f74cae22-da5e-4568-a24a-9e2dd0c5aa5d" />
-|
-| ![Patient Home](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/85d5ccfd-e514-4300-b5fb-f67cce437e5e" />
-) | ![Activities](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a0aeba0-b568-468b-9dc6-773f1cda994c" />
-) | ![Who is this](<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f1c474f-9661-4004-80f0-edd992b87862" />
-) |
-| *Calm home with Today's Plan* | *Mood, gratitude, games & companion* | *"Who is this?" camera recall* |
-
-### 👩‍⚕️ Caregiver Experience
-
-| Digital Twin | Monitoring & Trends | Patient Management |
-|:---:|:---:|:---:|
-| ![Digital Twin](PASTE_URL_HERE) | ![Trends](PASTE_URL_HERE) | ![Management](PASTE_URL_HERE) |
-| *Live state + 7-day trends* | *Adherence, mood, activity* | *Profiles, medical info, contacts* |
-
----
 
 ## 🌟 Platform at a Glance
 
