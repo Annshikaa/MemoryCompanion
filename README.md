@@ -304,10 +304,11 @@ Secure tokenized emergency card sharing with revocable access.
 - GPS Tracking
 - Memory Builder
 - Caregiver Dashboard
+- Voice Cloning
+(Already Done)
 
 ## Phase 2 🚧
 
-- Voice Cloning
 - Cognitive Prediction
 - Wearable Integration
 - Smart Medication Support
