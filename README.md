@@ -1,338 +1,522 @@
-# 🧠 Memory Companion
-
 <div align="center">
 
-# AI-Powered Dementia & Alzheimer's Care Platform
+# 🧠 Memory Companion
 
-*A compassionate digital companion helping patients stay oriented, connected, safe, and independent while empowering caregivers with intelligent monitoring, memory support, and predictive insights.*
+### *Where memory loss meets technology, dignity, and love.*
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Groq](https://img.shields.io/badge/Groq-AI-orange?style=for-the-badge)
+**An AI-powered care platform that keeps people living with dementia & Alzheimer's oriented, connected, safe, and independent — while giving caregivers a calmer, smarter, and more compassionate way to care.**
 
-### 💙 Built for families navigating dementia with dignity.
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=lightning&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+![Made with](https://img.shields.io/badge/made%20with-💙-ff69b4?style=flat-square)
+
+<br/>
+
+> ### 💙 *"It is an attempt to make memory loss a little less lonely."*
+
+[**Live Demo**](#) · [**Report Bug**](#) · [**Request Feature**](#) · [**Documentation**](#)
 
 </div>
 
 ---
 
-# ✨ Why Memory Companion Exists
+## 📖 Table of Contents
 
-Over 55 million people worldwide live with dementia. Memory Companion combines AI, safety systems, family memories, cognitive activities, and caregiver tools into a single platform designed to make daily life safer, calmer, and more connected.
-
-## Core Goals
-
-- 🧠 Support memory recall
-- 👨‍👩‍👧 Strengthen family connections
-- 📍 Improve patient safety
-- 😊 Encourage emotional wellbeing
-- 🤖 Provide AI-powered assistance
-- 📊 Deliver actionable caregiver insights
-
----
-
-# 📸 Product Showcase
-
-> Add screenshots here
-
-- Caregiver Dashboard
-- Patient Home Screen
-- AI Companion
-- Family Recognition
-- Memory Activities
-- Digital Twin Analytics
+- [The Problem](#-the-problem)
+- [Why Memory Companion Exists](#-why-memory-companion-exists)
+- [Product Showcase](#-product-showcase)
+- [Platform Overview](#-platform-at-a-glance)
+- [Caregiver Features](#️-caregiver-features)
+- [Patient Features](#-patient-features)
+- [AI Innovation Layer](#-ai-innovation-layer)
+- [Face Recognition System](#️-face-recognition-system)
+- [Voice & Conversation Engine](#️-voice--conversation-engine)
+- [Safety & Location Intelligence](#-safety--location-intelligence)
+- [Tech Stack](#️-tech-stack)
+- [System Architecture](#️-system-architecture)
+- [Database Schema](#️-database-schema)
+- [Platform Impact](#-platform-impact)
+- [Getting Started](#-getting-started)
+- [Environment Variables](#-environment-variables)
+- [Privacy & Safety](#-privacy--safety)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [Creator](#-creator)
 
 ---
 
-# 🌟 Platform Overview
+## 🌍 The Problem
 
-| Patient Experience | Caregiver Experience |
-|-------------------|---------------------|
-| Daily guidance | Monitoring dashboard |
-| Family recognition | AI summaries |
-| SOS support | Alerts & notifications |
-| Memory activities | Patient management |
-| Mood tracking | Analytics & reports |
-| AI companion | Digital twin insights |
+> Over **55 million people** worldwide live with dementia, and a new case is diagnosed roughly **every 3 seconds**. Behind each diagnosis is a family quietly carrying the weight of confusion, fear of wandering, missed medication, repeated questions, and the slow ache of a loved one forgetting names and faces.
+
+Care today is fragmented across sticky notes, group chats, pill organizers, and worry. **Memory Companion replaces that chaos with one calm, intelligent system** — built for both the person living with dementia *and* the people who love them.
 
 ---
 
-# 👩‍⚕️ Caregiver Features
+## ✨ Why Memory Companion Exists
 
-## Care Management
+Memory Companion unifies AI, safety systems, family memories, cognitive activities, and caregiver tools into a single platform designed to make daily life **safer, calmer, and more connected.**
 
-- Patient Profile Management
-- Family Members Directory
-- Medical Information Storage
-- Emergency Card Generation
-- Emergency Contact Management
+### Core Goals
 
-## Daily Care Tools
-
-- Smart Routines
-- Medication Reminders
-- Appointment Tracking
-- Reminiscence Library
-- Personalized Memory Content
-
-## Monitoring & Insights
-
-- Mood History
-- Cognitive Tracking
-- Weekly Reports
-- Notifications Center
-- Digital Twin Analytics
-
-## Safety Systems
-
-- Face Recognition Enrollment
-- GPS Monitoring
-- Geofence Alerts
-- SOS Event Tracking
+| 🧠 | **Support memory recall** through familiar faces, voices, and moments |
+|----|---------------------------------------------------------------------|
+| 👨‍👩‍👧 | **Strengthen family connections** even as memory fades |
+| 📍 | **Improve patient safety** with location and SOS intelligence |
+| 😊 | **Encourage emotional wellbeing** through gentle daily check-ins |
+| 🤖 | **Provide AI-powered assistance** that is grounded and trustworthy |
+| 📊 | **Deliver actionable caregiver insights** instead of raw data |
 
 ---
 
-# 🌸 Patient Features
+## 📸 Product Showcase
 
-## Everyday Support
+> *Drop your screenshots / GIFs in the table below for a polished, professional look.*
 
-- Today's Plan
-- Family Directory
-- Reminder Center
-- AI Companion
-- SOS Assistance
-
-## Emotional Wellbeing
-
-- Mood Check-ins
-- Gratitude Journal
-- Guided Breathing
-- Positive Affirmations
-
-## Cognitive Activities
-
-- Memory Games
-- Guess The Memory
-- Family Recognition
-- Reminiscence Sessions
+| Caregiver Dashboard | Patient Home Screen |
+|:---:|:---:|
+| ![Dashboard](docs/screens/dashboard.png) | ![Patient Home](docs/screens/patient-home.png) |
+| **AI Companion** | **Family Recognition** |
+| ![Companion](docs/screens/companion.png) | ![Family](docs/screens/family.png) |
+| **Memory Activities** | **Digital Twin Analytics** |
+| ![Activities](docs/screens/activities.png) | ![Twin](docs/screens/twin.png) |
 
 ---
 
-# 🤖 AI Innovation Layer
+## 🌟 Platform at a Glance
 
-## Memory Builder
+<div align="center">
 
-Transforms caregiver notes into:
+| 🌸 **Patient Experience** | 👩‍⚕️ **Caregiver Experience** |
+|:--------------------------|:------------------------------|
+| Daily guidance & gentle reminders | Real-time monitoring dashboard |
+| Family & face recognition | AI-generated daily summaries |
+| One-tap SOS support | Smart alerts & notifications |
+| Cognitive games & memory activities | Patient & profile management |
+| Mood & gratitude check-ins | Analytics, trends & reports |
+| Voice-enabled AI companion | Digital Twin predictive insights |
 
+</div>
+
+---
+
+## 👩‍⚕️ Caregiver Features
+
+### 📋 Care Management
+- **Patient Profile Management** — central record for each person in your care
+- **Family Members Directory** — relationships, photos, and bios
+- **Medical Information Storage** — conditions, allergies, blood type, physicians
+- **Emergency Card Generation** — instant, shareable, tokenized care card
+- **Emergency Contact Management** — prioritized contact chains
+
+### 🗓️ Daily Care Tools
+- **Smart Routines** — adaptive daily schedules that learn patterns
+- **Medication Reminders** — dose tracking with confirmation
+- **Appointment Tracking** — never miss a doctor's visit
+- **Reminiscence Library** — curated photos, stories, and music
+- **Personalized Memory Content** — auto-built from caregiver notes
+
+### 📊 Monitoring & Insights
+- **Mood History** — emotional trend visualization
+- **Cognitive Tracking** — performance over time across activities
+- **Weekly Reports** — readable, AI-written care summaries
+- **Notifications Center** — unified, prioritized alerts
+- **Digital Twin Analytics** — predictive wellness modeling
+
+### 🛡️ Safety Systems
+- **Face Recognition Enrollment** — register trusted family members
+- **GPS Monitoring** — live location with history
+- **Geofence Alerts** — instant notification if a safe zone is left
+- **SOS Event Tracking** — logged emergencies with context
+
+### ✨ New Caregiver Tools
+- **🤝 Multi-Caregiver Collaboration** — invite family & professional carers with role-based permissions (admin / contributor / view-only)
+- **🩺 Care Team Notes** — shared, timestamped observation log across all caregivers
+- **📅 Shift Handover Mode** — auto-generated summary of "what happened on my shift" for the next caregiver
+- **🔔 Smart Escalation** — if a primary caregiver doesn't respond to an SOS within *N* minutes, the alert cascades to backup contacts
+- **🧾 Insurance & Document Vault** — securely store and retrieve medical/legal documents
+- **🗣️ Caregiver Wellbeing Check** — burnout self-assessment + curated respite resources (because carers need care too)
+
+---
+
+## 🌸 Patient Features
+
+### 🌅 Everyday Support
+- **Today's Plan** — a simple, large-text view of the day
+- **Family Directory** — faces, names, and relationships on demand
+- **Reminder Center** — gentle, repeated, never-stressful nudges
+- **AI Companion** — always available to talk, reassure, and orient
+- **SOS Assistance** — one large button to call for help
+
+### 💗 Emotional Wellbeing
+- **Mood Check-ins** — tap-a-face emotional logging
+- **Gratitude Journal** — small daily moments of positivity
+- **Guided Breathing** — calming exercises for moments of anxiety
+- **Positive Affirmations** — personalized, reassuring messages
+
+### 🧩 Cognitive Activities
+- **Memory Games** — adaptive difficulty matching cognitive level
+- **Guess The Memory** — photo-based recall challenges
+- **Family Recognition** — practice naming loved ones
+- **Reminiscence Sessions** — guided journeys through life memories
+
+### ✨ New Patient Experiences
+- **⏰ Orientation Anchor** — a calm always-visible card showing *who you are, where you are, the day, date, and weather* (proven to reduce disorientation distress)
+- **🎵 Music Memory Therapy** — familiar songs from the patient's youth, shown to spark recall and lift mood
+- **📖 "My Story" Mode** — an AI-narrated life storybook built from family memories, read aloud in a familiar voice
+- **🌙 Sundowning Support** — evening-aware UI that softens, calms, and offers reassurance during the hardest hours
+- **🍽️ Meal & Hydration Prompts** — gentle nudges to eat and drink, with caregiver confirmation
+- **📞 One-Tap Video Call** — call a loved one by tapping their face, no dialing required
+
+---
+
+## 🤖 AI Innovation Layer
+
+### 🧱 Memory Builder
+Transforms unstructured caregiver notes into structured, usable knowledge:
 - Family relationships
 - Important memories
 - Favorite music
 - Routine suggestions
 - Patient profile updates
 
-## Companion AI
+### 💬 Companion AI
+A safe, grounded conversational partner:
+- **Retrieval-Grounded Generation (RAG)** — answers only from approved facts
+- **Hallucination Prevention** — never invents people or memories
+- **Voice Interaction** — natural, hands-free conversation
+- **Family-Aware Responses** — knows who's who
+- **Safe Conversation Design** — calm, redirecting, never argumentative
 
-Features:
+### 📝 Daily Summary Generator
+Turns a day of data into a human-readable report covering reminder completion, mood changes, activity participation, and safety events.
 
-- Retrieval Grounded Generation
-- Hallucination Prevention
-- Voice Interaction
-- Family-Aware Responses
-- Safe Conversation Design
+### 🔮 Digital Twin
+A continuously-updating model of the patient that analyzes wellness trends, mood history, cognitive activity, routine adherence, and notification patterns.
 
-## Daily Summary Generator
-
-Produces caregiver reports based on:
-
-- Reminder completion
-- Mood changes
-- Activity participation
-- Safety events
-
-## Digital Twin
-
-Analyzes:
-
-- Wellness trends
-- Mood history
-- Cognitive activity
-- Routine adherence
-- Notification patterns
+### ✨ New AI Capabilities
+- **📈 Cognitive Decline Early-Warning** — detects subtle drops in game performance, response time, and routine adherence, surfacing *gentle* "worth mentioning to the doctor" flags
+- **🧠 Adaptive Difficulty Engine** — games and prompts auto-tune to the patient's current cognitive level so they're never frustrating or patronizing
+- **🌐 Multilingual Companion** — converses in the patient's first language, critical since dementia often causes regression to a mother tongue
+- **🎭 Emotion-Aware Responses** — detects distress in voice/text and shifts tone, pace, and content accordingly
+- **📋 Doctor Visit Prep** — auto-compiles a structured summary of changes since the last appointment
+- **🔁 Repetition-Aware Memory** — recognizes when a patient asks the same thing repeatedly and answers with infinite, identical patience
 
 ---
 
-# 👁️ Face Recognition System
+## 👁️ Face Recognition System
 
-## Workflow
+```
+   Caregiver Upload
+          ↓
+    Face Detection
+          ↓
+  Embedding Generation
+          ↓
+    Secure Storage  ── (image discarded)
+          ↓
+  Patient Recognition
+          ↓
+   Relationship Recall
+```
 
-Caregiver Upload
-↓
-Face Detection
-↓
-Embedding Generation
-↓
-Secure Storage
-↓
-Patient Recognition
-↓
-Relationship Recall
-
-### Security
-
-- Family-scoped matching
-- No image persistence
-- Embedding-only storage
-- Service authentication
+### 🔐 Security
+- **Family-scoped matching** — embeddings never cross family boundaries
+- **No image persistence** — photos are processed, then destroyed
+- **Embedding-only storage** — only mathematical vectors are kept
+- **Service authentication** — recognition service is secret-protected
 
 ---
 
-# 🛠️ Tech Stack
+## 🗣️ Voice & Conversation Engine
+
+> *Already implemented and shipping.* Memory Companion speaks and listens.
+
+- **Voice-First Companion** — full hands-free conversation for patients who struggle with screens
+- **Personalized Voice Cloning** — the companion can speak in a familiar, trusted family voice
+- **Natural Speech Synthesis** — warm, slow, clear text-to-speech tuned for older ears
+- **Speech-to-Text Check-ins** — patients can talk through mood and gratitude entries
+- **Wake-Word Activation** — no buttons needed to start a conversation
+
+---
+
+## 🛰️ Safety & Location Intelligence
+
+- **Live GPS Tracking** with location history
+- **Customizable Geofences** — define multiple safe zones (home, garden, day-center)
+- **Wander Detection** — alerts when movement patterns indicate disorientation
+- **SOS Event Log** — every emergency captured with time, location, and context
+- **Smart Escalation Chains** — alerts cascade until someone responds
+- **🔋 Device Health Monitoring** *(new)* — caregiver is warned if the patient's device battery is low or signal is lost
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 | Layer | Technology |
-|---------|------------|
-| Frontend | Next.js 15 |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| Database | Supabase |
-| Authentication | Supabase Auth |
-| Storage | Supabase Storage |
-| AI | Groq |
-| State Management | Zustand |
-| Animations | Framer Motion |
-| Face Recognition | dlib |
-| Backend Service | FastAPI |
+|:------|:-----------|
+| 🖥️ Frontend | **Next.js 15** (App Router) |
+| 🔤 Language | **TypeScript** |
+| 🎨 Styling | **Tailwind CSS** |
+| 🗄️ Database | **Supabase (PostgreSQL)** |
+| 🔐 Authentication | **Supabase Auth** |
+| 📦 Storage | **Supabase Storage** |
+| 🧠 AI / LLM | **Groq** |
+| 🌀 State Management | **Zustand** |
+| 🎬 Animations | **Framer Motion** |
+| 👁️ Face Recognition | **dlib** |
+| ⚙️ Backend Service | **FastAPI** |
+| 🗣️ Voice | **TTS / Voice Cloning Pipeline** |
+
+</div>
 
 ---
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 
-Add your architecture diagram image here for a more professional appearance.
+```mermaid
+flowchart TD
+    subgraph Client["🌐 Next.js 15 Frontend"]
+        P[🌸 Patient App]
+        C[👩‍⚕️ Caregiver App]
+    end
+
+    subgraph Edge["⚡ API & Edge Layer"]
+        API[Next.js API Routes]
+    end
+
+    subgraph AI["🤖 AI Services"]
+        G[Groq LLM]
+        MB[Memory Builder]
+        DT[Digital Twin]
+        VC[Voice Engine]
+    end
+
+    subgraph Py["🐍 FastAPI Microservice"]
+        FR[dlib Face Recognition]
+    end
+
+    subgraph Data["🗄️ Supabase"]
+        DB[(PostgreSQL + RLS)]
+        ST[(Storage)]
+        AU[Auth]
+    end
+
+    P --> API
+    C --> API
+    API --> G
+    API --> MB
+    API --> DT
+    API --> VC
+    API --> FR
+    API --> DB
+    API --> ST
+    API --> AU
+    FR --> DB
+```
+
+> *Replace with an exported architecture image (`docs/architecture.png`) for an even more professional look.*
 
 ---
 
-# 📈 Platform Impact
+## 🗄️ Database Schema
 
-| Category | Count |
-|-----------|--------|
-| AI Systems | 4+ |
-| Interfaces | 2 |
-| Protected Tables | 12+ |
-| Safety Features | 5+ |
-| AI Endpoints | Multiple |
-| Cognitive Activities | Multiple |
+All tables are protected by **Row-Level Security** and scoped by `family_id`.
+
+```
+families              → top-level tenant boundary
+profiles              → caregiver accounts
+patients              → people receiving care
+people                → family members & contacts
+routines              → daily schedules
+reminders             → medication / task reminders
+reminiscence_items    → photos, stories, music
+mood_checkins         → emotional logs
+notifications         → alerts & messages
+cognitive_reports     → game & activity results
+face_enrollments      → face embeddings (no images)
+patient_medical_info  → conditions, allergies, meds
+events_log            → SOS, geofence & system events
+care_team_notes       → shared caregiver observations  ✨ new
+documents_vault       → secured medical/legal files     ✨ new
+```
 
 ---
 
-# 🚀 Getting Started
+## 📈 Platform Impact
+
+<div align="center">
+
+| 📊 Category | 🔢 Count |
+|:------------|:---------|
+| AI Systems | **6+** |
+| Interfaces | **2** (Patient + Caregiver) |
+| Protected Tables | **14+** |
+| Safety Features | **7+** |
+| Cognitive Activities | **Multiple** |
+| Languages Supported | **Multilingual** |
+| Lives It's Built For | **55M+** |
+
+</div>
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js **18+**
+- A **Supabase** project
+- A **Groq** API key
+- Python **3.10+** (for the face recognition service)
+
+### Quick Start
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/memory-companion.git
-
 cd memory-companion
 
+# 2. Install dependencies
 npm install
 
+# 3. Configure environment variables (see below)
+cp .env.example .env.local
+
+# 4. Run the development server
 npm run dev
 ```
 
+### Run the Face Recognition Service
+
+```bash
+cd services/face
+pip install -r requirements.txt
+uvicorn main:app --reload --port 8000
+```
+
+Visit **http://localhost:3000** 🎉
+
 ---
 
-# 🔐 Environment Variables
+## 🔐 Environment Variables
 
 ```env
+# Supabase
 NEXT_PUBLIC_SUPABASE_URL=
-
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
-
 SUPABASE_SERVICE_ROLE_KEY=
 
+# AI
 GROQ_API_KEY=
 
+# Face Recognition Service
 FACE_SERVICE_URL=
-
 FACE_SERVICE_SECRET=
+
+# Voice (optional)
+VOICE_API_KEY=
 ```
 
 ---
 
-# 🗄️ Database Overview
+## 🔒 Privacy & Safety
 
-- families
-- profiles
-- patients
-- people
-- routines
-- reminders
-- reminiscence_items
-- mood_checkins
-- notifications
-- cognitive_reports
-- face_enrollments
-- patient_medical_info
-- events_log
+> Memory Companion handles some of the most sensitive data imaginable — and treats it that way.
 
----
+### 🛡️ Data Isolation
+Every table is protected through **Row-Level Security** and scoped by family. No data ever crosses family boundaries.
 
-# 🔒 Privacy & Safety
+### 🤖 AI Safety
+The companion AI **only responds using caregiver-approved information.** It cannot invent people, memories, or facts.
 
-## Data Isolation
+### 👁️ Face Recognition
+**Only mathematical embeddings are stored.** Original images are processed and immediately discarded.
 
-Every table is protected through Row Level Security and scoped by family.
+### 🚨 Emergency Systems
+Emergency cards use **secure, tokenized, revocable** sharing links — shareable in a crisis, killable in a click.
 
-## AI Safety
-
-The companion AI only responds using caregiver-approved information.
-
-## Face Recognition
-
-Only embeddings are stored. Images are processed and discarded.
-
-## Emergency Systems
-
-Secure tokenized emergency card sharing with revocable access.
+### ✅ Trust by Design
+- Audit logging on sensitive actions
+- Role-based access for multi-caregiver families
+- No third-party ad tracking, ever
 
 ---
 
-# 🚀 Future Roadmap
+## 🚀 Roadmap
 
-## Phase 1 ✅
-
+### ✅ Phase 1 — *Shipped*
 - AI Companion
 - Face Recognition
 - GPS Tracking
 - Memory Builder
 - Caregiver Dashboard
-- Voice Cloning
-(Already Done)
+- **Voice Cloning & Voice Companion**
 
-## Phase 2 🚧
+### 🚧 Phase 2 — *In Progress*
+- Cognitive Decline Prediction
+- Wearable Integration (heart rate, sleep, falls)
+- Smart Medication Support (dispenser sync)
+- Multi-Caregiver Collaboration
+- Music Memory Therapy
 
-- Cognitive Prediction
-- Wearable Integration
-- Smart Medication Support
-
-## Phase 3 🔮
-
-- AR Family Recognition
-- Smart Home Integration
-- Personalized Cognitive Therapy
+### 🔮 Phase 3 — *Future Vision*
+- AR Family Recognition (point your camera, see who's who)
+- Smart Home Integration (lights, locks, stoves)
+- Personalized Cognitive Therapy programs
+- Predictive fall & health-event detection
+- Clinician portal & EHR integration
 
 ---
 
-# 👩‍💻 Creator
+## 🤝 Contributing
 
-## Anshika Jain
+Contributions make the open-source community an amazing place to learn and build. Any contributions you make are **deeply appreciated.**
 
-Int. MTech Computer Science Engineering  
-VIT Bhopal University
+```bash
+# 1. Fork the project
+# 2. Create your feature branch
+git checkout -b feature/amazing-feature
+# 3. Commit your changes
+git commit -m "Add some amazing feature"
+# 4. Push to the branch
+git push origin feature/amazing-feature
+# 5. Open a Pull Request
+```
 
-### Connect
+Please read the contributing guidelines and code of conduct before submitting. Bug reports and feature requests are welcome in the [Issues](#) tab.
 
-- Portfolio: https://anshika-portfolio-seven.vercel.app/
-- GitHub: https://github.com/Annshikaa
-- LinkedIn: https://linkedin.com/in/anshika-jain-44672a250
+---
+
+## 👩‍💻 Creator
+
+<div align="center">
+
+### **Anshika Jain**
+*Int. MTech, Computer Science Engineering — VIT Bhopal University*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anshika-portfolio-seven.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Annshikaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-jain-44672a250)
+
+</div>
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
@@ -340,10 +524,15 @@ VIT Bhopal University
 
 ## 💙 Built for Families. Powered by AI.
 
-Memory Companion is more than software.
+**Memory Companion is more than software.**
+*It is an attempt to make memory loss a little less lonely.*
 
-It is an attempt to make memory loss a little less lonely.
+<br/>
 
-⭐ Star the repository if you found this project meaningful.
+⭐ **If this project moved you, star the repository — it helps more families find it.**
+
+<br/>
+
+*Made with 💙 for the 55 million people, and the families who love them.*
 
 </div>
