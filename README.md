@@ -81,7 +81,7 @@ Memory Companion unifies AI, safety systems, family memories, cognitive activiti
 
 ## 📸 Product Showcase
 
-> *Drop your screenshots / GIFs in the table below for a polished, professional look.*
+
 
 | Caregiver Dashboard | Patient Home Screen |
 |:---:|:---:|
